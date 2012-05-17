@@ -10,6 +10,21 @@ A list of good places to work in Medellín.
 * **Contact**: Av El Poblado Cr 43 A No 6 S-15 El Poblado, Colombia +57 (4) 3216116
 * **Website**: http://www.oviedo.com.co
 
+## C.C. El Tesoro
+## C.C. Gran Plaza
+## C.C. Puerta del Norte
+
+## C.C. Unicentro
+
+* **Wifi**: Yes
+* **Electrical Outlets**: No
+* **Food**: Crepes & Waffles, Presto
+* **Contact**: 
+* **Website**: 
+
+## C.C. Vizcaya
+## Exito Poblado
+
 ## Mc Donalds (Av. El Poblado)
 
 * **Wifi**: Yes
@@ -17,3 +32,11 @@ A list of good places to work in Medellín.
 * **Food**: Mc Donalds
 * **Contact**: Av El Poblado Cr 43 A No 4 S-15 El Poblado, Colombia +57 (4) 2662954
 * **Website**: http://www.mcdonalds.com.co/
+
+## Universidad Nacional de Colombia (Sede El Volador)
+
+* **Wifi**: Yes
+* **Electrical Outlets**: Yes
+* **Food**: Indoor Cafeteria
+* **Contact**: 
+* **Website**: 
