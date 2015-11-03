@@ -19,8 +19,8 @@ A list of good places to work in Medellín.
 * **Wifi**: Yes
 * **Electrical Outlets**: No
 * **Food**: Crepes & Waffles, Presto
-* **Contact**: 
-* **Website**: 
+* **Contact**:
+* **Website**:
 
 ## C.C. Vizcaya
 ## Exito Poblado
@@ -38,5 +38,13 @@ A list of good places to work in Medellín.
 * **Wifi**: Yes
 * **Electrical Outlets**: Yes
 * **Food**: Indoor Cafeteria
-* **Contact**: 
-* **Website**: 
+* **Contact**:
+* **Website**:
+
+## C.C. Viva Laureles
+
+* **Wifi**: Sometimes
+* **Electrical Outlets**: Yes (In food zone)
+* **Food**: El Corral, Burger King, Subway, Mis Carnes Parrila, EXITO
+* **Contact**:
+* **Website**:
