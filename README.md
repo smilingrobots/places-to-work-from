@@ -17,10 +17,16 @@ A list of good places to work in Medellín.
 ## C.C. Unicentro
 
 * **Wifi**: Yes
-* **Electrical Outlets**: No
+* **Electrical Outlets**: Yes
 * **Food**: Crepes & Waffles, Presto
 * **Contact**:
 * **Website**:
+ 
+## De Lolita (C.C. Unicentro)
+
+* **WiFi**: Yes
+* **Electrical Outlets**: Yes
+* **Food**: Maria Luisa de Arequipe: $4.300, Café Americano: $2.800
 
 ## C.C. Vizcaya
 ## Exito Poblado
