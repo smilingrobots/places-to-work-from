@@ -54,3 +54,9 @@ A list of good places to work in Medellín.
 * **Food**: El Corral, Burger King, Subway, Mis Carnes Parrila, EXITO
 * **Contact**:
 * **Website**:
+
+A list of good places to work in Bogotá
+
+## Amor Perfecto
+* **Address**: Cra. 4 #66-46, Bogotá, Cundinamarca (that's chapinero alto)
+* **Source**: https://hashtagnomads.slack.com/archives/colombia/p1449719552000066
