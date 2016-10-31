@@ -1,0 +1,154 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+// Our variables
+$base-font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+$base-font-size:   14px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fff;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+
+@import "base";
+
+// The actual site styles.
+
+body {
+    margin: $spacing-unit/2 $spacing-unit;
+    color: $text-color;
+}
+
+.site-header {
+    font-size: $base-font-size * 2.0;
+    color: $text-color;
+    margin: 0 0 $spacing-unit * 2.0 0;
+
+    a {
+        color: $text-color;
+    }
+}
+
+.site-content {
+    margin: $spacing-unit 0;
+    padding: 0 $spacing-unit/4;
+}
+
+.site-footer {
+    margin-top: $spacing-unit * 2;
+    font-size: $small-font-size;
+    border-top: solid 1px $grey-color-light;
+    color: $grey-color-dark;
+    padding: $spacing-unit/4 0;
+
+    .last-update {
+        float: left;
+
+        .label {
+            font-style: italic;
+        }
+
+        .time {
+        }
+    }
+
+    .authors {
+        text-align: right;
+    }
+
+    .author-avatar {
+        width: 32px;
+        height: 32px;
+        border-radius: 3px;
+    }
+}
+
+.places-list {
+    width: 100%;
+
+    thead {
+        background: #489FDF;
+        // background: #efefef;
+
+        th {
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: $small-font-size;
+            color: #fff;
+            text-align: center;
+            padding: 4px;
+
+            a {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+
+    .place-location {
+        width: 150px;
+    }
+
+    .place-links {
+        width: 100px;
+    }
+
+    .place-has-wifi,
+    .place-has-outlets,
+    .place-has-food {
+        width: 30px;
+        text-align: center;
+    }
+
+    tbody tr {
+        // &:nth-child(even) {
+        //     background: #efefef;
+        // }
+    }
+
+    tbody td {
+        padding: 4px 2px;
+        vertical-align: top;
+
+        .place-name {
+            font-weight: bold;
+        }
+    }
+
+
+    .place-details {
+        display: none;
+        margin: 10px $spacing-unit/4;
+
+        .hide-details {
+            display: none;
+        }
+
+        dl {
+            color: $grey-color-dark;
+            border-left: solid 1px #ccc;
+            padding-left: $spacing-unit/4;
+
+            dt {
+                font-weight: bold;
+                margin-top: 4px;
+            }
+
+            dd {
+                margin-left: $spacing-unit/4;
+            }
+        }
+    }
+
+}
