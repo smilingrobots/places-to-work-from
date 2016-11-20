@@ -13,3 +13,5 @@ links:
 Infinite possibilities in terms of food, entertainment and shopping.
 
 Food: Mc Donalds, Crepes & Waffles, El Corral, Leños y Carbón, Nino e Pastino, Tacos BBQ
+
+Tables with EC outlets in Juan Valdez.
