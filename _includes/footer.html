@@ -3,7 +3,7 @@
         <span class="label">Last Update:</span> <span class="time">{{ site.time | date: "%F" }}</span>
     </div>
     <div class="authors">
-        <a href="http://wvega.com" target="_blank" title="wvega"><img src="{{ "/images/wvega.jpg" }}" class="author-avatar"></a>
-        <a href="http://wvega.com" target="_blank" title="jorgetorres"><img src="{{ "/images/jorgetorres.png" }}" class="author-avatar"></a>
+        <a href="http://wvega.com" target="_blank" title="wvega"><img src="{{ "/images/wvega.jpg" | prepend: site.baseurl }}" class="author-avatar"></a>
+        <a href="http://wvega.com" target="_blank" title="jorgetorres"><img src="{{ "/images/jorgetorres.png" | prepend: site.baseurl }}" class="author-avatar"></a>
     </div>
 </footer>
